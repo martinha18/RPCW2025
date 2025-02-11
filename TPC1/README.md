@@ -1,4 +1,4 @@
-# TPC1:
+# TPC1: Ontologia EMD
 
 ## 2025-02-04
 
@@ -9,3 +9,11 @@
 
 ## Resumo
 
+Criar ontologia para o ficheiro emd.json
+
+Classes:
+- Pessoa
+- Modalidade
+- Exame
+- Clube
+- PráticaDesportiva
