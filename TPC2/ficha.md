@@ -57,11 +57,21 @@ where {
     ?s :nascimento ?dn .
     ?s :cognomes ?c .
 }
+
+
+
+select ?n ?dn ?c
+where {
+    ?s rdf:type :Rei ;
+        :nome ?n ;
+        :nascimento ?dn ;
+        :cognomes ?c .
+}
 ```
 
 ### 6 - Acrescenta à tabela anterior a dinastia em que cada rei reinou.
 ```
-select ?n ?dn ?c ?d
+select ?n ?dn ?c ?d ?dnome
 where {
     ?s rdf:type :Rei .
     ?s :nome ?n .
@@ -69,13 +79,14 @@ where {
     ?s :cognomes ?c .
     ?r :dinastia ?d .
     ?r :temMonarca ?s.
+    ?d :nome ?dnome
 }
 order by ?d
 ```
 
 ### 7 - Qual a distribuição de reis pelas 4 dinastias?
 1 - 9
-2 - 10
+2 - 10 / 8
 3 - 3
 4 - 12
 ```
@@ -87,11 +98,20 @@ where {
 }
 group by ?d
 order by ?d
+
+
+
+select ?d (count(?s) as ?c)
+where {
+    ?s rdf:type :Rei .
+    ?s :temReinado/:dinastia/:nome ?d .
+}
+group by ?d
 ```
 
 ### 8 - Lista os descobrimentos (sua descrição) por ordem cronológica.
 ```
-select ?n
+select ?s ?n
 where {
     ?s rdf:type :Descobrimento .
     ?s :notas ?n .
@@ -116,15 +136,15 @@ order by ?d
 
 ### 10 - Calcula uma tabela com o nome, data de nascimento e número de mandatos de todos os presidentes portugueses.
 ```
-select (sample(?n) as ?nome) (sample(?d) as ?data) (count(?m) as ?c)
+select ?n ?d (count(?m) as ?c)
 where {
     ?s rdf:type :Presidente .
     ?s :nome ?n .
     ?s :nascimento ?d .
     ?s :mandato ?m
 }
-group by ?s
-order by ?nome
+group by ?s ?n ?d
+order by ?n
 ```
 
 ### 11 - Quantos mandatos teve o presidente Sidónio Pais? Em que datas iniciaram e terminaram esses mandatos?
@@ -163,25 +183,25 @@ order by ?n
 
 ### 13 - Qual a distribuição dos militantes por cada partido politico?
 ```
-select (sample(?n) as ?nome) (count(?m) as ?c)
+select ?n (count(?m) as ?c)
 where {
     ?s rdf:type :Partido .
     ?s :nome ?n .
     ?s :temMilitante ?m .
 }
-group by ?s
-order by ?nome
+group by ?s ?n
+order by ?n
 ```
 
 ### 14 - Qual o partido com maior número de presidentes militantes?
 ```
-select (sample(?n) as ?nome) (count(?m) as ?c)
+select ?n (count(?m) as ?c)
 where {
     ?s rdf:type :Partido .
     ?s :nome ?n .
     ?s :temMilitante ?m .
 }
-group by ?s
+group by ?s ?n
 order by desc(?c)
 limit 1
 ```
