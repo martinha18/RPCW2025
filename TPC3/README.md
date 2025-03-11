@@ -9,3 +9,7 @@
 
 ## Resumo
 
+Quiz:
+    - 4 opções (escolha múltipla)
+    - Verdadeiro ou Falso
+    - Correspondências (rei - dinastia)
