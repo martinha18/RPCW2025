@@ -2,12 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Answer Result</title>
+    <title>Resultado da Resposta</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 </head>
-<body>
-    <h1>{{ 'Correct!' if correct else 'Wrong Answer!' }}</h1>
-    <p>The correct answer was: <strong>{{ correct_answer }}</strong></p>
-    <p>Your current score: {{ score }}</p>
-    <a href="/quiz">Next Question</a> | <a href="/score">Finish Quiz</a>
+<body class="w3-light-grey">
+    <div class="w3-container w3-margin-top w3-padding-large w3-white w3-card-4 w3-round-large" style="max-width: 600px; margin: auto; text-align: center;">
+        <h1 class="w3-text-{% if correct %}green{% else %}red{% endif %}">
+            {{ 'Correto!' if correct else 'Resposta Errada!' }}
+        </h1>
+        <p class="w3-large">A resposta correta era: <strong>{{ correct_answer }}</strong></p>
+        <p class="w3-text-grey">Pontuação atual: <strong>{{ score }} / {{ questions }}</strong></p>
+        <div class="w3-margin-top">
+            <a href="/quiz" class="w3-button w3-blue w3-round w3-margin">Próxima Questão</a>
+            <a href="/score" class="w3-button w3-red w3-round w3-margin">Finalizar Quiz</a>
+        </div>
+    </div>
 </body>
 </html>

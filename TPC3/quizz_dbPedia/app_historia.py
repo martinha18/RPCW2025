@@ -137,6 +137,7 @@ for r in result_partidos['results']['bindings']:
 @app.route('/')
 def home():
     session['score'] = 0
+    session['questions'] = 0
     return redirect(url_for('quiz'))
 
 @app.route('/quiz', methods=['GET'])
@@ -236,11 +237,12 @@ def quiz():
     answer_correct = request.form.get('answerCorrect')
     correct = answer_correct == user_answer
     session['score'] = session.get('score', 0) + (1 if correct else 0)
-    return render_template('result.html', correct=correct, correct_answer=answer_correct, score=session['score'])
+    session['questions'] = session.get('questions', 0) + 1
+    return render_template('result.html', correct=correct, correct_answer=answer_correct, score=session['score'], questions=session['questions'])
 
 @app.route('/score')
 def score():
-    return render_template('score.html', score=session.get('score', 0))
+    return render_template('score.html', score=session.get('score', 0), questions=session.get('questions', 0))
 
 if __name__ == '__main__':
     app.run(debug=True)

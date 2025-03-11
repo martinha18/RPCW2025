@@ -2,11 +2,16 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Final Score</title>
+    <title>Pontuação Final</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 </head>
-<body>
-    <h1>Quiz Completed!</h1>
-    <p>Your final score is: <strong>{{ score }}</strong></p>
-    <a href="/">Restart Quiz</a>
+<body class="w3-light-grey">
+    <div class="w3-container w3-margin-top w3-padding-large w3-white w3-card-4 w3-round-large" style="max-width: 600px; margin: auto; text-align: center;">
+        <h1 class="w3-text-blue">Quiz Concluído!</h1>
+        <p class="w3-large">Sua pontuação final é: <strong>{{ score }} / {{ questions }}</strong></p>
+        <div class="w3-margin-top">
+            <a href="/" class="w3-button w3-green w3-round w3-xlarge">Reiniciar Quiz</a>
+        </div>
+    </div>
 </body>
 </html>
