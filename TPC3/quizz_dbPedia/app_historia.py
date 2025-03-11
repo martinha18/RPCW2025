@@ -209,18 +209,18 @@ def generate_question():
                 }
 
         case 6:
-            dinastia = random.choice(listaDinastias)
+            presidente = random.choice(listaPresidentes)
             sel = random.randint(0,1)
             if sel == 0:
                 question = {
-                    "question": f"O rei {dinastia['nome']} reinou na {dinastia['dinastia']}.",
+                    "question": f"O presidente {presidente['nome']} pertenceu ao partido {presidente['partido']}.",
                     "options": ["Verdadeiro", "Falso"],
                     "answer": "Verdadeiro"
                 }
             else:
-                fake_dinastia = random.choice([d for d in listaDinastias2 if d != dinastia['dinastia']])
+                fake_partido = random.choice([p for p in listaPartidos if p != presidente['partido']])
                 question = {
-                    "question": f"O rei {dinastia['nome']} reinou na {fake_dinastia}.",
+                    "question": f"O presidente {presidente['nome']} pertenceu ao partido {fake_partido}.",
                     "options": ["Verdadeiro", "Falso"],
                     "answer": "Falso"
                 }
