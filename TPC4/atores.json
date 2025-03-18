@@ -1,0 +1,1406 @@
+[
+    {
+        "id": "http://dbpedia.org/resource/Patrick_Dempsey",
+        "nome": "Patrick Dempsey",
+        "origem": "Lewiston, Maine, U.S.",
+        "dataNascimento": "1966-01-13"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Renée_Zellweger",
+        "nome": "Renée Zellweger",
+        "origem": "Katy, Texas, U.S.",
+        "dataNascimento": "1969-04-25"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Colin_Firth",
+        "nome": "Colin Firth",
+        "origem": "Grayshott, Hampshire, England",
+        "dataNascimento": "1960-09-10"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Emma_Thompson",
+        "nome": "Emma Thompson",
+        "origem": "London, England",
+        "dataNascimento": "1959-04-15"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Gemma_Jones",
+        "nome": "Gemma Jones",
+        "origem": "Marylebone, London, England",
+        "dataNascimento": "1942-12-04"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Conway_Tearle",
+        "nome": "Frederick Conway Tearle",
+        "origem": "New York City, U.S.",
+        "dataNascimento": "1878-05-17"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Aileen_Pringle",
+        "nome": "Aileen Pringle",
+        "origem": "San Francisco, California, U.S.",
+        "dataNascimento": "1895-07-23"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Vincent_(actor)",
+        "nome": "Vincent",
+        "origem": "http://dbpedia.org/resource/Edavanakad",
+        "dataNascimento": "1946-02-12"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Jayabharathi",
+        "nome": "Jayabharathi",
+        "origem": "Erode, Madras State, India",
+        "dataNascimento": "1954-06-28"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Raghavan_(actor)",
+        "nome": "Raghavan",
+        "origem": "Taliparamba, Madras Presidency, British India",
+        "dataNascimento": "1941-12-12"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Rani_Chandra",
+        "nome": "Rani Chandra",
+        "origem": "Fort Kochi, Travancore-Cochin, India",
+        "dataNascimento": "1949-06-02"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Max_Davidson",
+        "nome": "Max Davidson",
+        "origem": "http://dbpedia.org/resource/Berlin",
+        "dataNascimento": "1875-05-23"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Snitz_Edwards",
+        "nome": "Snitz Edwards",
+        "origem": "http://dbpedia.org/resource/Austria-Hungary",
+        "dataNascimento": "1868-01-01"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Roddy_McDowall",
+        "nome": "Roddy McDowall",
+        "origem": "Herne Hill, London, England",
+        "dataNascimento": "1928-09-17"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Chris_Sarandon",
+        "nome": "Chris Sarandon",
+        "origem": "Beckley, West Virginia, U.S.",
+        "dataNascimento": "1942-07-24"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Stephen_Geoffreys",
+        "nome": "Stephen Geoffreys",
+        "origem": "Cincinnati, Ohio, United States",
+        "dataNascimento": "1964-11-22"
+    },
+    {
+        "id": "http://dbpedia.org/resource/William_Ragsdale",
+        "nome": "William Ragsdale",
+        "origem": "El Dorado, Arkansas, U.S.",
+        "dataNascimento": "1961-01-19"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Amanda_Bearse",
+        "nome": "Amanda Bearse",
+        "origem": "Winter Park, Florida, U.S.",
+        "dataNascimento": "1958-08-09"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Victor_Sen_Yung",
+        "nome": "Victor Sen Yung",
+        "origem": "San Francisco, California, U.S.",
+        "dataNascimento": "1914-10-18"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Mary_Nash_(actress)",
+        "nome": "Mary Nash",
+        "origem": "Troy, New York, U.S.",
+        "dataNascimento": "1884-08-15"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Lionel_Atwill",
+        "nome": "Lionel Atwill",
+        "origem": "Croydon, Greater London, England",
+        "dataNascimento": "1885-03-01"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Sidney_Toler",
+        "nome": "Sidney Toler",
+        "origem": "Warrensburg, Missouri, U.S.",
+        "dataNascimento": "1874-04-28"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Jean_Rogers",
+        "nome": "Jean Rogers",
+        "origem": "Belmont, Massachusetts, U.S.",
+        "dataNascimento": "1916-03-25"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Vojislav_Brajović",
+        "nome": "Vojislav \"Voja\" Brajović",
+        "origem": "http://dbpedia.org/resource/Belgrade",
+        "dataNascimento": "1949-05-11"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Gorica_Popović",
+        "nome": "Gorica Popović",
+        "origem": "http://dbpedia.org/resource/Federal_People's_Republic_of_Yugoslavia",
+        "dataNascimento": "1952-08-13"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Ljuba_Tadić",
+        "nome": "Ljuba Tadic",
+        "origem": "http://dbpedia.org/resource/Kingdom_of_Yugoslavia",
+        "dataNascimento": "1929-05-31"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Žarko_Laušević",
+        "nome": "Žarko Laušević",
+        "origem": "http://dbpedia.org/resource/Cetinje",
+        "dataNascimento": "1960-01-19"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Miloš_Žutić",
+        "nome": "Miloš Žutić",
+        "origem": "http://dbpedia.org/resource/Belgrade",
+        "dataNascimento": "1939-11-16"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Alyson_Reed",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Terrence_Mann",
+        "nome": "Terrence Mann",
+        "origem": "Ashland, Kentucky, U.S.",
+        "dataNascimento": "1951-07-01"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Michael_Douglas",
+        "nome": "Michael Douglas",
+        "origem": "New Brunswick, New Jersey, U.S.",
+        "dataNascimento": "1944-09-25"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Sharon_Brown_(actress)",
+        "nome": "Sharon Brown",
+        "origem": "New York City, U.S.",
+        "dataNascimento": "1962-01-11"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Julie_Harris",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Anthony_Perkins",
+        "nome": "Anthony Perkins",
+        "origem": "New York City, U.S.",
+        "dataNascimento": "1932-04-04"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Joan_Hackett",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Geneviève_Kervine",
+        "nome": "Geneviève Kervine",
+        "origem": "http://dbpedia.org/resource/Dakar",
+        "dataNascimento": "1931-06-27"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Luis_Mariano",
+        "nome": "Luis Mariano",
+        "origem": "Irun , Spain",
+        "dataNascimento": "1914-08-13"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Jane_Sourza",
+        "nome": "Jane Sourza",
+        "origem": "http://dbpedia.org/resource/France",
+        "dataNascimento": "1902-12-01"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Ryan_O'Neal",
+        "nome": "Ryan O'Neal",
+        "origem": "Los Angeles, California, U.S.",
+        "dataNascimento": "1941-04-20"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Philip_Roth_(actor)",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Mabel_Albertson",
+        "nome": "Mabel Albertson",
+        "origem": "Haverhill, Massachusetts, U.S.",
+        "dataNascimento": "1901-07-24"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Madeline_Kahn",
+        "nome": "Madeline Kahn",
+        "origem": "Boston, Massachusetts, U.S.",
+        "dataNascimento": "1942-09-29"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Stefan_Gierasch",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Caco_Ciocler",
+        "nome": "Caco Ciocler",
+        "origem": "http://dbpedia.org/resource/Brazil",
+        "dataNascimento": "1971-09-27"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Simone_Spoladore",
+        "nome": "Simone Spoladore",
+        "origem": "Curitiba, Paraná, Brazil",
+        "dataNascimento": "1979-10-29"
+    },
+    {
+        "id": "http://dbpedia.org/resource/John_Barrymore",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/United_States_Marine_Band",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Scarlett_Johansson",
+        "nome": "Scarlett Johansson",
+        "origem": "New York City, U.S.",
+        "dataNascimento": "1984-11-22"
+    },
+    {
+        "id": "http://dbpedia.org/resource/David_Harbour",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/William_Hurt",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Florence_Pugh",
+        "nome": "Florence Pugh",
+        "origem": "Oxford, England",
+        "dataNascimento": "1996-01-03"
+    },
+    {
+        "id": "http://dbpedia.org/resource/O-T_Fagbenle",
+        "nome": "O-T Fagbenle",
+        "origem": "London, England",
+        "dataNascimento": "1981-01-22"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Edwin_Stevens_(actor)",
+        "nome": "Edwin Stevens",
+        "origem": "San Francisco, California, U.S.",
+        "dataNascimento": "1860-08-16"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Frank_Leigh",
+        "nome": "Frank Leigh",
+        "origem": "London, England, UK",
+        "dataNascimento": "1876-04-18"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Dorothy_Dalton",
+        "nome": "Dorothy Dalton",
+        "origem": "Chicago, Illinois, U.S.",
+        "dataNascimento": "1893-09-22"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Douglas_MacLean",
+        "nome": "Douglas MacLean",
+        "origem": "http://dbpedia.org/resource/Philadelphia,_Pennsylvania",
+        "dataNascimento": "1890-01-10"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Juliette_Lewis",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Giovanni_Ribisi",
+        "nome": "Giovanni Ribisi",
+        "origem": "Los Angeles, California, U.S.",
+        "dataNascimento": "1974-12-17"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Tom_Skerritt",
+        "nome": "Tom Skerritt",
+        "origem": "Detroit, Michigan, U.S.",
+        "dataNascimento": "1933-08-25"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Diane_Keaton",
+        "nome": "Diane Keaton",
+        "origem": "Los Angeles, California, U.S.",
+        "dataNascimento": "1946-01-05"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Gary_Harper",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Jack_Cruikshank",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Richard_Guttman",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/David_Lodge_(actor)",
+        "nome": "David Lodge",
+        "origem": "Rochester, Kent, England",
+        "dataNascimento": "1921-08-19"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Glynis_Barber",
+        "nome": "Glynis Barber",
+        "origem": "Durban, South Africa",
+        "dataNascimento": "1955-10-25"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Claire_Rommer",
+        "nome": "Claire Rommer",
+        "origem": "http://dbpedia.org/resource/Berlin",
+        "dataNascimento": "1904-12-07"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Walter_Rilla",
+        "nome": "Walter Rilla",
+        "origem": "http://dbpedia.org/resource/German_Empire",
+        "dataNascimento": "1894-08-22"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Magda_Karmen",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/David_Strathairn",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Judy_Parfitt",
+        "nome": "Judy Parfitt",
+        "origem": "Sheffield, Yorkshire, England",
+        "dataNascimento": "1935-11-07"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Christopher_Plummer",
+        "nome": "Christopher Plummer",
+        "origem": "Toronto, Ontario, Canada",
+        "dataNascimento": "1929-12-13"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Eric_Bogosian",
+        "nome": "Eric Bogosian",
+        "origem": "Boston, Massachusetts, U.S.",
+        "dataNascimento": "1953-04-24"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Jennifer_Jason_Leigh",
+        "nome": "Jennifer Jason Leigh",
+        "origem": "Los Angeles, California, U.S.",
+        "dataNascimento": "1962-02-05"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Renji_Panicker",
+        "nome": "Renji Panicker",
+        "origem": "Nedumudi, Alappuzha district, Kerala",
+        "dataNascimento": "1960-09-23"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Gayathri_Suresh",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Sijoy_Varghese",
+        "nome": "Sijoy Varghese",
+        "origem": "Edappally, Kerala, India",
+        "dataNascimento": "1971-03-06"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Aju_Varghese",
+        "nome": "Aju Varghese",
+        "origem": "Tiruvalla, Kerala, India",
+        "dataNascimento": "1985-01-11"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Suraj_Venjaramoodu",
+        "nome": "Suraj Venjaramoodu",
+        "origem": "Venjarammoodu, Kerala, India",
+        "dataNascimento": "1976-06-30"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Venu_Nagavally",
+        "nome": "Venu Nagavally",
+        "origem": "http://dbpedia.org/resource/Travancore",
+        "dataNascimento": "1949-04-16"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Sukumari",
+        "nome": "Sukumari Amma",
+        "origem": "http://dbpedia.org/resource/Nagercoil",
+        "dataNascimento": "1940-10-06"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Adoor_Bhasi",
+        "nome": "Adoor Bhasi",
+        "origem": "Peringanadu, India",
+        "dataNascimento": "1929-03-01"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Manochithra",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Vanja_Drach",
+        "nome": "Vanja Drach",
+        "origem": "http://dbpedia.org/resource/Sava_Banovina",
+        "dataNascimento": "1932-02-01"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Slobodan_Dimitrijević",
+        "nome": "Slobodan Dimitrijević",
+        "origem": "http://dbpedia.org/resource/Niš",
+        "dataNascimento": "1941-04-20"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Branko_Kovačić",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Marija_Lojk",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Winifred_Allen",
+        "nome": "Winifred Allen",
+        "origem": "New Rochelle, New York, U.S.",
+        "dataNascimento": "1896-06-26"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Harry_Neville",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Jack_Meredith_(actor)",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Clarence_Nash",
+        "nome": "Clarence Nash",
+        "origem": "",
+        "dataNascimento": "1904-12-07"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Bernadette_O'Farrell",
+        "nome": "Bernadette O'Farrell",
+        "origem": "http://dbpedia.org/resource/Birr,_County_Offaly",
+        "dataNascimento": "1924-01-30"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Lois_Maxwell",
+        "nome": "Lois Maxwell",
+        "origem": "Kitchener, Ontario, Canada",
+        "dataNascimento": "1927-02-14"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Cesar_Romero",
+        "nome": "Cesar Romero",
+        "origem": "New York City, U.S.",
+        "dataNascimento": "1907-02-15"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Reshmi_Ghosh",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Om_Puri",
+        "nome": "Om Puri",
+        "origem": "Ambala, East Punjab, India",
+        "dataNascimento": "1950-10-18"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Yashpal_Sharma_(actor)",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Billie_West",
+        "nome": "Billie West",
+        "origem": "Louisville, Kentucky, U.S.",
+        "dataNascimento": "1891-08-05"
+    },
+    {
+        "id": "http://dbpedia.org/resource/F._A._Turner",
+        "nome": "F. A. Turner",
+        "origem": "New York City, United States",
+        "dataNascimento": "1858-10-12"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Frank_Daniels",
+        "nome": "Frank Daniels",
+        "origem": "http://dbpedia.org/resource/Dayton,_Ohio",
+        "dataNascimento": "1856-08-15"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Harry_T._Morey",
+        "nome": "Harry T. Morey",
+        "origem": "Charlotte, Michigan, U.S.",
+        "dataNascimento": "1873-09-21"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Charles_Eldridge",
+        "nome": "Charles Eldridge",
+        "origem": "Saratoga Springs, New York, United States",
+        "dataNascimento": "1854-07-25"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Robert_Stack",
+        "nome": "Robert Stack",
+        "origem": "Los Angeles, California, U.S.",
+        "dataNascimento": "1919-01-13"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Joy_Page",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Gilbert_Roland",
+        "nome": "Gilbert Roland",
+        "origem": "Ciudad Juárez, Chihuahua, Mexico",
+        "dataNascimento": "1905-12-11"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Michael_Poghosian",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/C._Thomas_Howell",
+        "nome": "C. Thomas Howell",
+        "origem": "http://dbpedia.org/resource/California",
+        "dataNascimento": "1966-12-07"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Lindsey_McKeon",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Darren_Dalton",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Rey_Valentin",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Basil_Sydney",
+        "nome": "Basil Sydney",
+        "origem": "St Osyth, Essex, England",
+        "dataNascimento": "1894-04-23"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Stanley_Baker",
+        "nome": "Stanley Baker",
+        "origem": "Ferndale, Glamorgan, Wales",
+        "dataNascimento": "1928-02-28"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Alan_Ladd",
+        "nome": "Alan Ladd",
+        "origem": "Hot Springs, Arkansas, U.S.",
+        "dataNascimento": "1913-09-03"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Joan_Tetzel",
+        "nome": "Joan Tetzel",
+        "origem": "New York City, U.S.",
+        "dataNascimento": "1921-06-21"
+    },
+    {
+        "id": "http://dbpedia.org/resource/S._P._Pillai",
+        "nome": "S. P. Pillai",
+        "origem": "http://dbpedia.org/resource/British_India",
+        "dataNascimento": "1913-11-28"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Sathyaneshan_Nadar",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Ruth_Leuwerik",
+        "nome": "Ruth Leuwerik",
+        "origem": "Essen, Germany",
+        "dataNascimento": "1924-04-23"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Josef_Meinrad",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Hans_Holt",
+        "nome": "Hans Holt",
+        "origem": "http://dbpedia.org/resource/Vienna",
+        "dataNascimento": "1909-11-22"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Adrienne_Gessner",
+        "nome": "Adrienne Gessner",
+        "origem": "http://dbpedia.org/resource/Schottwien",
+        "dataNascimento": "1896-07-23"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Albert_Dupontel",
+        "nome": "Albert Dupontel",
+        "origem": "http://dbpedia.org/resource/Saint-Germain-en-Laye",
+        "dataNascimento": "1964-01-11"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Renee_Young",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Corey_Graves",
+        "nome": "Corey Graves",
+        "origem": "Pittsburgh, Pennsylvania, United States",
+        "dataNascimento": "1984-02-24"
+    },
+    {
+        "id": "http://dbpedia.org/resource/The_Miz",
+        "nome": "The Miz",
+        "origem": "Parma, Ohio, U.S.",
+        "dataNascimento": "1980-10-08"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Babatunde_Aiyegbusi",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Tichina_Arnold",
+        "nome": "Tichina Arnold",
+        "origem": "New York City, U.S.",
+        "dataNascimento": "1969-06-28"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Carlo_Verdone",
+        "nome": "Carlo Verdone",
+        "origem": "Rome, Italy",
+        "dataNascimento": "1950-11-17"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Natasha_Hovey",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Bae_Yong-joon",
+        "nome": "Bae Yong-joon",
+        "origem": "http://dbpedia.org/resource/Mapo_District",
+        "dataNascimento": "1972-08-29"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Son_Ye-jin",
+        "nome": "Son Ye-jin",
+        "origem": "Suseong District, Daegu, South Korea",
+        "dataNascimento": "1982-01-11"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Renato_Baldini",
+        "nome": "Renato Baldini",
+        "origem": "Rome, Italy",
+        "dataNascimento": "1921-12-18"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Leda_Gloria",
+        "nome": "Leda Gloria",
+        "origem": "Rome, Italy",
+        "dataNascimento": "1908-08-30"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Maria_Frau",
+        "nome": "Maria Frau",
+        "origem": "http://dbpedia.org/resource/Sardinia",
+        "dataNascimento": "1930-08-06"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Roscoe_Arbuckle",
+        "nome": "Roscoe Arbuckle",
+        "origem": "Smith Center, Kansas, U.S.",
+        "dataNascimento": "1887-03-24"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Buster_Keaton",
+        "nome": "Buster Keaton",
+        "origem": "Piqua, Kansas, U.S.",
+        "dataNascimento": "1895-10-04"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Al_St._John",
+        "nome": "Al St. John",
+        "origem": "Santa Ana, California, US",
+        "dataNascimento": "1892-09-10"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Vijayendra_Ghatge",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Talluri_Rameshwari",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Naseeruddin_Shah",
+        "nome": "Naseeruddin Shah",
+        "origem": "http://dbpedia.org/resource/Uttar_Pradesh",
+        "dataNascimento": "1950-07-20"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Prem_Nazir",
+        "nome": "Prem Nazir",
+        "origem": "http://dbpedia.org/resource/Travancore",
+        "dataNascimento": "1926-04-07"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Thikkurissy_Sukumaran_Nair",
+        "nome": "Thikkurissy Sukumaran Nair",
+        "origem": "Thickurichy, Near Marthandam, Travancore, British India",
+        "dataNascimento": "1916-10-16"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Evelin_Dobos",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Ferenc_Lengyel_(actor)",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Betty_Gilpin",
+        "nome": "Betty Gilpin",
+        "origem": "New York City, U.S.",
+        "dataNascimento": "1986-07-21"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Sean_Young",
+        "nome": "Sean Young",
+        "origem": "Louisville, Kentucky, U.S.",
+        "dataNascimento": "1959-11-20"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Daisuke_Suzuki_(actor)",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/MILCK",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/William_Frederick_Knight",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Jane_Lui",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Karin_Anna_Cheung",
+        "nome": "Karin Anna Cheung",
+        "origem": "Los Angeles, California, U.S.",
+        "dataNascimento": "1974-11-02"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Brian_Bonsall",
+        "nome": "Brian Bonsall",
+        "origem": "Torrance, California, U.S.",
+        "dataNascimento": "1981-12-03"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Josie_Bissett",
+        "nome": "Josie Bissett",
+        "origem": "Seattle, Washington, U.S.",
+        "dataNascimento": "1970-10-05"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Lyman_Ward_(actor)",
+        "nome": "Lyman Ward",
+        "origem": "Saint John, New Brunswick, Canada",
+        "dataNascimento": "1941-06-21"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Whit_Hertford",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/John_Diehl_(actor)",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Priyanka_Chopra",
+        "nome": "Priyanka Chopra",
+        "origem": "Jamshedpur, Bihar , India",
+        "dataNascimento": "1982-07-18"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Ileana_D'Cruz",
+        "nome": "Ileana D'Cruz",
+        "origem": "Mumbai, Maharashtra, India",
+        "dataNascimento": "1986-11-01"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Ranbir_Kapoor",
+        "nome": "Ranbir Kapoor",
+        "origem": "Bombay, Maharashtra, India",
+        "dataNascimento": "1982-09-28"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Prabhu_(actor)",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Vivek_(actor)",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Anjali_(film_actress)",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Trisha_(actress)",
+        "nome": "Trisha Krishnan",
+        "origem": "Madras, Tamil Nadu, India",
+        "dataNascimento": "1983-05-04"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Jayam_Ravi",
+        "nome": "Jayam Ravi",
+        "origem": "Tirumangalam, Madurai, Tamil Nadu, India",
+        "dataNascimento": "1980-09-10"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Tim_Haars",
+        "nome": "Tim Haars",
+        "origem": "http://dbpedia.org/resource/'s-Hertogenbosch",
+        "dataNascimento": "1981-11-06"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Sylvia_Hoeks",
+        "nome": "Sylvia Hoeks",
+        "origem": "Maarheeze, North Brabant, Netherlands",
+        "dataNascimento": "1983-06-01"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Ramsey_Clark",
+        "nome": "Ramsey Clark",
+        "origem": "Dallas, Texas, U.S.",
+        "dataNascimento": "1927-12-18"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Juan_Gonzalez_(journalist)",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Warren_Oates",
+        "nome": "Warren Oates",
+        "origem": "Depoy, Kentucky, U.S.",
+        "dataNascimento": "1928-07-05"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Jacqueline_Bisset",
+        "nome": "Jacqueline Bisset",
+        "origem": "Weybridge, Surrey, England",
+        "dataNascimento": "1944-09-13"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Valeria_De_Franciscis",
+        "nome": "Valeria De Franciscis",
+        "origem": "http://dbpedia.org/resource/Rome",
+        "dataNascimento": "1915-12-14"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Gianni_Di_Gregorio",
+        "nome": "Gianni Di Gregorio",
+        "origem": "Rome, Italy",
+        "dataNascimento": "1949-02-19"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Teresa_Di_Gregorio",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Pedro_Armendáriz",
+        "nome": "Pedro Armendáriz",
+        "origem": "Mexico City, Mexico",
+        "dataNascimento": "1912-05-09"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Mel_Blanc",
+        "nome": "Mel Blanc",
+        "origem": "San Francisco, California, U.S.",
+        "dataNascimento": "1908-05-30"
+    },
+    {
+        "id": "http://dbpedia.org/resource/June_Foray",
+        "nome": "June Foray",
+        "origem": "Springfield, Massachusetts, U.S.",
+        "dataNascimento": "1917-09-18"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Harry_Piel",
+        "nome": "Harry Piel",
+        "origem": "http://dbpedia.org/resource/German_Empire",
+        "dataNascimento": "1892-07-12"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Brian_Kerwin",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Peter_Michael_Goetz",
+        "nome": "Peter Goetz",
+        "origem": "Buffalo, New York, U.S.",
+        "dataNascimento": "1941-12-10"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Linda_Hamilton",
+        "nome": "Linda Hamilton",
+        "origem": "Salisbury, Maryland, U.S.",
+        "dataNascimento": "1956-09-26"
+    },
+    {
+        "id": "http://dbpedia.org/resource/John_Ashton_(actor)",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Scott_Adkins",
+        "nome": "Scott Adkins",
+        "origem": "Sutton Coldfield, West Midlands, England",
+        "dataNascimento": "1976-06-17"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Jason_Patric",
+        "nome": "Jason Patric",
+        "origem": "http://dbpedia.org/resource/U.S.",
+        "dataNascimento": "1966-06-17"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Kyra_Zagorsky",
+        "nome": "Kyra Zagorsky",
+        "origem": "New York, United States",
+        "dataNascimento": "1976-06-06"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Michael_Rogers_(actor)",
+        "nome": "Michael Rogers",
+        "origem": "Victoria, British Columbia, Canada",
+        "dataNascimento": "1964-05-18"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Natasha_Henstridge",
+        "nome": "Natasha Henstridge",
+        "origem": "Springdale, Newfoundland and Labrador, Canada",
+        "dataNascimento": "1974-08-15"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Richard_Lynch",
+        "nome": "Richard Lynch",
+        "origem": "Brooklyn, New York City, U.S.",
+        "dataNascimento": "1940-02-12"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Danielle_Brisebois",
+        "nome": "Danielle Brisebois",
+        "origem": "Brooklyn, New York, U.S.",
+        "dataNascimento": "1969-06-28"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Sharon_Farrell",
+        "nome": "Sharon Farrell",
+        "origem": "Sioux City, Iowa, U.S.",
+        "dataNascimento": "1940-12-24"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Julián_Villagrán",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Ester_Expósito",
+        "nome": "Ester Expósito",
+        "origem": "Madrid, Spain",
+        "dataNascimento": "2000-01-26"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Marian_Álvarez",
+        "nome": "Marian Álvarez",
+        "origem": "http://dbpedia.org/resource/Madrid",
+        "dataNascimento": "1978-04-01"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Emory_Cohen",
+        "nome": "Emory Cohen",
+        "origem": "New York City, U.S.",
+        "dataNascimento": "1990-03-13"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Maika_Monroe",
+        "nome": "Maika Monroe",
+        "origem": "Santa Barbara, California, U.S.",
+        "dataNascimento": "1993-05-29"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Dylan_O'Brien",
+        "nome": "Dylan O'Brien",
+        "origem": "New York City, U.S.",
+        "dataNascimento": "1991-08-26"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Hannah_Gross",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Keir_Gilchrist",
+        "nome": "Keir Gilchrist",
+        "origem": "Camden, London, England",
+        "dataNascimento": "1992-09-28"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Craig_Robinson_(actor)",
+        "nome": "Craig Robinson",
+        "origem": "Chicago, Illinois, U.S.",
+        "dataNascimento": "1971-10-25"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Elizabeth_Banks",
+        "nome": "Elizabeth Banks",
+        "origem": "Pittsfield, Massachusetts, U.S.",
+        "dataNascimento": "1974-02-10"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Traci_Lords",
+        "nome": "Traci Lords",
+        "origem": "Steubenville, Ohio, U.S.",
+        "dataNascimento": "1968-05-07"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Katie_Morgan",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Jason_Mewes",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Peter_Cummins",
+        "nome": "Peter Cummins",
+        "origem": "Melbourne, Victoria, Australia",
+        "dataNascimento": "1931-06-02"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Brent_Spiner",
+        "nome": "Brent Spiner",
+        "origem": "Houston, Texas, U.S.",
+        "dataNascimento": "1949-02-02"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Jonathan_Frakes",
+        "nome": "Jonathan Frakes",
+        "origem": "Bellefonte, Pennsylvania, U.S.",
+        "dataNascimento": "1952-08-19"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Patrick_Stewart",
+        "nome": "Patrick Stewart",
+        "origem": "Mirfield, West Riding of Yorkshire, England",
+        "dataNascimento": "1940-07-13"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Gates_McFadden",
+        "nome": "Gates McFadden",
+        "origem": "Akron, Ohio, U.S.",
+        "dataNascimento": "1949-03-02"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Anthony_Zerbe",
+        "nome": "Anthony Zerbe",
+        "origem": "Long Beach, California, U.S.",
+        "dataNascimento": "1936-05-20"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Nobuko_Otowa",
+        "nome": "Nobuko Otowa",
+        "origem": "Yonago, Tottori, Japan",
+        "dataNascimento": "1924-10-01"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Alane_Delhaye",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Bernard_Pruvost",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Lucy_Caron",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Peggie_Castle",
+        "nome": "Peggie Castle",
+        "origem": "Appalachia, Virginia, U.S.",
+        "dataNascimento": "1927-12-22"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Gerald_Mohr",
+        "nome": "Gerald Mohr",
+        "origem": "Manhattan, New York City, U.S.",
+        "dataNascimento": "1914-06-11"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Dan_O'Herlihy",
+        "nome": "Dan O'Herlihy",
+        "origem": "Wexford, County Wexford, Ireland",
+        "dataNascimento": "1919-05-01"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Harry_Harvey,_Sr.",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Myrna_Dell",
+        "nome": "Myrna Dell",
+        "origem": "Los Angeles, California, U.S.",
+        "dataNascimento": "1924-03-05"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Anne_Jeffreys",
+        "nome": "Anne Jeffreys",
+        "origem": "Goldsboro, North Carolina, U.S.",
+        "dataNascimento": "1923-01-26"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Lowell_Gilmore",
+        "nome": "Lowell Gilmore",
+        "origem": "Saint Paul, Minnesota, U.S.",
+        "dataNascimento": "1906-12-20"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Addison_Richards",
+        "nome": "Addison Richards",
+        "origem": "Zanesville, Ohio, U.S.",
+        "dataNascimento": "1902-10-20"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Gino_Bechi",
+        "nome": "Gino Bechi",
+        "origem": "Florence, Italy",
+        "dataNascimento": "1913-10-16"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Juan_Carlos_Altavista",
+        "nome": "Juan Carlos Altavista",
+        "origem": "http://dbpedia.org/resource/Buenos_Aires",
+        "dataNascimento": "1929-01-04"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Libertad_Leblanc",
+        "nome": "Libertad Leblanc",
+        "origem": "http://dbpedia.org/resource/Río_Negro_Province",
+        "dataNascimento": "1938-02-24"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Alberto_Anchart",
+        "nome": "Alberto Anchart",
+        "origem": "Buenos Aires, Argentina",
+        "dataNascimento": "1931-09-24"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Matt_Damon",
+        "nome": "Matt Damon",
+        "origem": "Cambridge, Massachusetts, US",
+        "dataNascimento": "1970-10-08"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Lindsay_Lohan",
+        "nome": "Lindsay Lohan",
+        "origem": "New York City, U.S.",
+        "dataNascimento": "1986-07-02"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Whoopi_Goldberg",
+        "nome": "Whoopi Goldberg",
+        "origem": "New York City, U.S.",
+        "dataNascimento": "1955-11-13"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Adrian_Grenier",
+        "nome": "Adrian Grenier",
+        "origem": "Santa Fe, New Mexico, U.S.",
+        "dataNascimento": "1976-07-10"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Alec_Baldwin",
+        "nome": "Alec Baldwin",
+        "origem": "Amityville, New York, U.S.",
+        "dataNascimento": "1958-04-03"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Max_Terhune",
+        "nome": "Max Terhune",
+        "origem": "Franklin, Indiana, U.S.",
+        "dataNascimento": "1891-02-12"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Jan_Wiley",
+        "nome": "Jan Wiley",
+        "origem": "http://dbpedia.org/resource/Marion,_Indiana",
+        "dataNascimento": "1916-02-21"
+    },
+    {
+        "id": "http://dbpedia.org/resource/John_'Dusty'_King",
+        "nome": "John King",
+        "origem": "Cincinnati, Ohio, U.S.",
+        "dataNascimento": "1909-07-11"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Ray_%22Crash%22_Corrigan",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Gokul_Athokpam",
+        "nome": "Gokul Athokpam",
+        "origem": "http://dbpedia.org/resource/Thangmeiband",
+        "dataNascimento": "1974-05-06"
+    },
+    {
+        "id": "http://dbpedia.org/resource/Leishangthem_Tonthoingambi_Devi",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    },
+    {
+        "id": "http://dbpedia.org/resource/Abenao_Elangbam",
+        "nome": null,
+        "origem": null,
+        "dataNascimento": null
+    }
+]

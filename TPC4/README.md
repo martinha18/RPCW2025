@@ -1,6 +1,6 @@
-# TPC4:
+# TPC4: Harvester sobre DBPedia
 
-## 2025-02-25
+## 2025-03-11
 
 ## Autor
 
@@ -9,3 +9,25 @@
 
 ## Resumo
 
+Tema: Cinema
+
+Estrutura:
+```
+Filmes
+[
+    {
+        "id":
+        "título":
+        "país":
+        "data":
+        "elenco": [ator]
+        "géneros": [genero]
+        "abs":
+    },
+    {
+        ...
+    }
+]
+```
+
+Alternativa: Atores separadamente e usa-se o id para evitar repetidos

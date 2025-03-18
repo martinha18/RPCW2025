@@ -1,0 +1,907 @@
+[
+    {
+        "id": "http://dbpedia.org/resource/Bridget_Jones's_Baby",
+        "título": "Bridget Jones's Baby",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Patrick_Dempsey",
+            "http://dbpedia.org/resource/Renée_Zellweger",
+            "http://dbpedia.org/resource/Colin_Firth",
+            "http://dbpedia.org/resource/Emma_Thompson",
+            "http://dbpedia.org/resource/Gemma_Jones"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/The_Mystic",
+        "título": "The Mystic",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Conway_Tearle",
+            "http://dbpedia.org/resource/Aileen_Pringle"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Aaradhika",
+        "título": "Aaradhika",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Vincent_(actor)",
+            "http://dbpedia.org/resource/Jayabharathi",
+            "http://dbpedia.org/resource/Raghavan_(actor)",
+            "http://dbpedia.org/resource/Rani_Chandra"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/No_Woman_Knows",
+        "título": "No Woman Knows",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Max_Davidson",
+            "http://dbpedia.org/resource/Snitz_Edwards"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Fright_Night",
+        "título": "Fright Night",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Roddy_McDowall",
+            "http://dbpedia.org/resource/Chris_Sarandon",
+            "http://dbpedia.org/resource/Stephen_Geoffreys",
+            "http://dbpedia.org/resource/William_Ragsdale",
+            "http://dbpedia.org/resource/Amanda_Bearse"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Charlie_Chan_in_Panama",
+        "título": "Charlie Chan in Panama",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Victor_Sen_Yung",
+            "http://dbpedia.org/resource/Mary_Nash_(actress)",
+            "http://dbpedia.org/resource/Lionel_Atwill",
+            "http://dbpedia.org/resource/Sidney_Toler",
+            "http://dbpedia.org/resource/Jean_Rogers"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Battle_of_Kosovo_(film)",
+        "título": "Battle of Kosovo",
+        "realizador": "http://dbpedia.org/resource/Zdravko_Šotra",
+        "descrição": "Bitwa na Kosowym Polu (tytuł oryginalny: Boj na Kosovu) – jugosłowiański film fabularny z 1989 roku, w reżyserii Zdravko Šotry, nakręcony na podstawie dramatu . Film nakręcony w 600. rocznicę bitwy na Kosowym Polu przedstawia zmitologizowaną wersję tej bitwy. Film przedstawia bitwę jako starcie Serbów z Turkami, marginalizując rolę serbskich sojuszników. W filmie nie brakuje drobnych potknięć inscenizacyjnych. W drugiej minucie widać orzący traktor, jeden z tureckich żołnierzy ma na ręku zegarek elektroniczny. W 2007 r. serbski portal filmski.net uznał \"Bitwę na Kosowym Polu\" za najgorszy film w dziejach serbskiej kinematografii, przyznając mu Złoty Dżem Śliwkowy (Zlatni džem od šljiva).",
+        "país": "http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia",
+        "elenco": [
+            "http://dbpedia.org/resource/Vojislav_Brajović",
+            "http://dbpedia.org/resource/Gorica_Popović",
+            "http://dbpedia.org/resource/Ljuba_Tadić",
+            "http://dbpedia.org/resource/Žarko_Laušević",
+            "http://dbpedia.org/resource/Miloš_Žutić"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/A_Chorus_Line_(film)",
+        "título": "A Chorus Line",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Alyson_Reed",
+            "http://dbpedia.org/resource/Terrence_Mann",
+            "http://dbpedia.org/resource/Michael_Douglas",
+            "http://dbpedia.org/resource/Sharon_Brown_(actress)"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/How_Awful_About_Allan",
+        "título": "How Awful About Allan",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Julie_Harris",
+            "http://dbpedia.org/resource/Anthony_Perkins",
+            "http://dbpedia.org/resource/Joan_Hackett"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Four_Days_in_Paris",
+        "título": "Four Days in Paris",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Geneviève_Kervine",
+            "http://dbpedia.org/resource/Luis_Mariano",
+            "http://dbpedia.org/resource/Jane_Sourza"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/What's_Up,_Doc%3F_(1972_film)",
+        "título": "What's Up, Doc?",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Ryan_O'Neal",
+            "http://dbpedia.org/resource/Philip_Roth_(actor)",
+            "http://dbpedia.org/resource/Mabel_Albertson",
+            "http://dbpedia.org/resource/Madeline_Kahn",
+            "http://dbpedia.org/resource/Stefan_Gierasch"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Desmundo",
+        "título": "Desmundo",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Caco_Ciocler",
+            "http://dbpedia.org/resource/Simone_Spoladore"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/The_Dictator_(1915_film)",
+        "título": "The Dictator",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/John_Barrymore"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/United_States_Marine_Band_(film)",
+        "título": "United States Marine Band",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/United_States_Marine_Band"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Black_Widow_(2021_film)",
+        "título": "Black Widow",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Scarlett_Johansson",
+            "http://dbpedia.org/resource/David_Harbour",
+            "http://dbpedia.org/resource/William_Hurt",
+            "http://dbpedia.org/resource/Florence_Pugh",
+            "http://dbpedia.org/resource/O-T_Fagbenle"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/The_Homebreaker",
+        "título": "The Homebreaker",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Edwin_Stevens_(actor)",
+            "http://dbpedia.org/resource/Frank_Leigh",
+            "http://dbpedia.org/resource/Dorothy_Dalton",
+            "http://dbpedia.org/resource/Douglas_MacLean"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/The_Other_Sister",
+        "título": "The Other Sister",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Juliette_Lewis",
+            "http://dbpedia.org/resource/Giovanni_Ribisi",
+            "http://dbpedia.org/resource/Tom_Skerritt",
+            "http://dbpedia.org/resource/Diane_Keaton"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Nasty_Burgers",
+        "título": "Nasty Burgers",
+        "realizador": "http://dbpedia.org/resource/James_Motluk",
+        "descrição": "Nasty Burgers is a low-budget feature film made in Canada and released to theaters in 1993. Filmed in 16 mm, it was directed by Canadian filmmaker James Motluk. The movie was financed by Motluk juggling credit cards, using one to pay off the other, then increasing the spending limit and so on. It opened at the Bloor Cinema in Toronto to a sell-out crowd but generally poor reviews. The story follows three brothers who struggle to run a fast food restaurant in the small town of Brockville.",
+        "país": "http://dbpedia.org/resource/Canada",
+        "elenco": [
+            "http://dbpedia.org/resource/Gary_Harper",
+            "http://dbpedia.org/resource/Jack_Cruikshank",
+            "http://dbpedia.org/resource/Richard_Guttman"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Edge_of_Sanity_(film)",
+        "título": "Edge of Sanity",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/David_Lodge_(actor)",
+            "http://dbpedia.org/resource/Glynis_Barber",
+            "http://dbpedia.org/resource/Anthony_Perkins"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Her_Highness_Dances_the_Waltz_(1926_film)",
+        "título": "Her Highness Dances the Waltz",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Claire_Rommer",
+            "http://dbpedia.org/resource/Walter_Rilla",
+            "http://dbpedia.org/resource/Magda_Karmen"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Dolores_Claiborne_(film)",
+        "título": "Dolores Claiborne",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/David_Strathairn",
+            "http://dbpedia.org/resource/Judy_Parfitt",
+            "http://dbpedia.org/resource/Christopher_Plummer",
+            "http://dbpedia.org/resource/Eric_Bogosian",
+            "http://dbpedia.org/resource/Jennifer_Jason_Leigh"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Jamna_Pyari",
+        "título": "Jamna Pyari",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Renji_Panicker",
+            "http://dbpedia.org/resource/Gayathri_Suresh",
+            "http://dbpedia.org/resource/Sijoy_Varghese",
+            "http://dbpedia.org/resource/Aju_Varghese",
+            "http://dbpedia.org/resource/Suraj_Venjaramoodu"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Swantham_Sarika_(film)",
+        "título": "Swantham Sarika",
+        "realizador": "http://dbpedia.org/resource/Ambili_(director)",
+        "descrição": "Swantham Sarika is an Indian Malayalam movie released on 1984 directed by Ambili. The film was and produced by P. Muhammad Moosa. Venu Nagavally, Manochithra, Sukumari and Adoor Bhasi in the lead roles. The film obtained the best singer award of Kerala state film awards in 1984 for K. J. Yesudas.",
+        "país": "http://dbpedia.org/resource/India",
+        "elenco": [
+            "http://dbpedia.org/resource/Venu_Nagavally",
+            "http://dbpedia.org/resource/Sukumari",
+            "http://dbpedia.org/resource/Adoor_Bhasi",
+            "http://dbpedia.org/resource/Manochithra"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Illusion_(1967_film)",
+        "título": "Illusion",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Vanja_Drach",
+            "http://dbpedia.org/resource/Slobodan_Dimitrijević",
+            "http://dbpedia.org/resource/Branko_Kovačić",
+            "http://dbpedia.org/resource/Marija_Lojk"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/The_Man_Hater",
+        "título": "The Man Hater",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Winifred_Allen",
+            "http://dbpedia.org/resource/Harry_Neville",
+            "http://dbpedia.org/resource/Jack_Meredith_(actor)"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Dumb_Bell_of_the_Yukon",
+        "título": "Dumb Bell of the Yukon",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Clarence_Nash"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Lady_in_the_Fog",
+        "título": "Lady in the Fog",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Bernadette_O'Farrell",
+            "http://dbpedia.org/resource/Lois_Maxwell",
+            "http://dbpedia.org/resource/Cesar_Romero"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Bazaar_E_Husn",
+        "título": "Bazaar E Husn",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Reshmi_Ghosh",
+            "http://dbpedia.org/resource/Om_Puri",
+            "http://dbpedia.org/resource/Yashpal_Sharma_(actor)"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/The_Living_Death",
+        "título": "The Living Death",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Billie_West",
+            "http://dbpedia.org/resource/F._A._Turner"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Crooky",
+        "título": "Crooky",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Frank_Daniels",
+            "http://dbpedia.org/resource/Harry_T._Morey",
+            "http://dbpedia.org/resource/Charles_Eldridge"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Bullfighter_and_the_Lady",
+        "título": "Bullfighter and the Lady",
+        "realizador": "http://dbpedia.org/resource/Budd_Boetticher",
+        "descrição": "Bullfighter and the Lady is a 1951 drama romance sport film directed and written by Budd Boetticher starring Robert Stack, Joy Page and Gilbert Roland. Filmed on location in Mexico, the film focused on the realities of the dangerous sport of bullfighting. During production, one stunt man died. Boetticher, who had experience in bullfighting, used a semidocumentary approach in filming the sport and the lives of matadors.",
+        "país": "http://dbpedia.org/resource/Mexico",
+        "elenco": [
+            "http://dbpedia.org/resource/Robert_Stack",
+            "http://dbpedia.org/resource/Joy_Page",
+            "http://dbpedia.org/resource/Gilbert_Roland"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Symphony_of_Silence",
+        "título": "Symphony of Silence",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Michael_Poghosian"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/The_Jailhouse",
+        "título": "The Jailhouse",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/C._Thomas_Howell",
+            "http://dbpedia.org/resource/Lindsey_McKeon",
+            "http://dbpedia.org/resource/Darren_Dalton",
+            "http://dbpedia.org/resource/Rey_Valentin"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Hell_Below_Zero",
+        "título": "Hell Below Zero",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Basil_Sydney",
+            "http://dbpedia.org/resource/Stanley_Baker",
+            "http://dbpedia.org/resource/Alan_Ladd",
+            "http://dbpedia.org/resource/Joan_Tetzel"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Kuttyedathi",
+        "título": "Kuttyedathi",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/S._P._Pillai",
+            "http://dbpedia.org/resource/Jayabharathi",
+            "http://dbpedia.org/resource/Sathyaneshan_Nadar"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/The_Trapp_Family_in_America",
+        "título": "The Trapp Family in America",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Ruth_Leuwerik",
+            "http://dbpedia.org/resource/Josef_Meinrad",
+            "http://dbpedia.org/resource/Hans_Holt",
+            "http://dbpedia.org/resource/Adrienne_Gessner"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Sachs'_Disease",
+        "título": "Sachs' Disease",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Albert_Dupontel"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/The_Main_Event_(2020_film)",
+        "título": "The Main Event",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Renee_Young",
+            "http://dbpedia.org/resource/Corey_Graves",
+            "http://dbpedia.org/resource/The_Miz",
+            "http://dbpedia.org/resource/Babatunde_Aiyegbusi",
+            "http://dbpedia.org/resource/Tichina_Arnold"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Acqua_e_sapone",
+        "título": "Acqua e sapone",
+        "realizador": "http://dbpedia.org/resource/Carlo_Verdone",
+        "descrição": "Acqua e sapone (Water and Soap) is a 1983 film by Carlo Verdone. Verdone, here in his fourth direction, besides interpreter is also the author of the subject and participates in the script as in his other films.",
+        "país": "http://dbpedia.org/resource/Italy",
+        "elenco": [
+            "http://dbpedia.org/resource/Carlo_Verdone",
+            "http://dbpedia.org/resource/Natasha_Hovey"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/April_Snow",
+        "título": "April Snow",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Bae_Yong-joon",
+            "http://dbpedia.org/resource/Son_Ye-jin"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Red_Moon_(1951_film)",
+        "título": "Red Moon",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Renato_Baldini",
+            "http://dbpedia.org/resource/Leda_Gloria",
+            "http://dbpedia.org/resource/Maria_Frau"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/His_Wedding_Night",
+        "título": "His Wedding Night",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Roscoe_Arbuckle",
+            "http://dbpedia.org/resource/Buster_Keaton",
+            "http://dbpedia.org/resource/Al_St._John"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Sunayana",
+        "título": "Sunayana",
+        "realizador": "http://dbpedia.org/resource/Hiren_Nag",
+        "descrição": "Sunayana is a 1979 Bollywood family drama film directed by Hiren Nag and produced by Tarachand Barjatya.",
+        "país": "http://dbpedia.org/resource/India",
+        "elenco": [
+            "http://dbpedia.org/resource/Vijayendra_Ghatge",
+            "http://dbpedia.org/resource/Talluri_Rameshwari",
+            "http://dbpedia.org/resource/Naseeruddin_Shah"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Dharmakshetre_Kurukshetre",
+        "título": "Dharmakshetre Kurukshetre",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Prem_Nazir",
+            "http://dbpedia.org/resource/Thikkurissy_Sukumaran_Nair",
+            "http://dbpedia.org/resource/Adoor_Bhasi",
+            "http://dbpedia.org/resource/Jayabharathi"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Curtiz_(film)",
+        "título": "Curtiz",
+        "realizador": "http://dbpedia.org/resource/Tamás_Yvan_Topolánszky",
+        "descrição": "Curtiz is a 2018 Hungarian film by Tamás Yvan Topolánszky, based on the making of the 1942 Humphrey Bogart film Casablanca by Hungarian director Michael Curtiz. That year, America is on the brink of World War II. Michael Curtiz filmed his later iconic, multi-Oscar-winning film Casablanca under most unusual circumstances. During the shoot, he had to battle almost daily with political censors who wanted to change the film's script. In addition, Curtiz's troubled relationship with his daughter made this period more difficult for him. The film's producers were Tamás Yvan Topolánszky, Claudia Sümeghy, and Barnabas Hutlassa. The Executive Producer was Orian Williams, and the screenwriter was Zsuzsanna Bak.",
+        "país": "http://dbpedia.org/resource/Hungary",
+        "elenco": [
+            "http://dbpedia.org/resource/Evelin_Dobos",
+            "http://dbpedia.org/resource/Ferenc_Lengyel_(actor)"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Future_'38",
+        "título": "Future '38",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Betty_Gilpin",
+            "http://dbpedia.org/resource/Sean_Young"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Hibakusha_(film)",
+        "título": "Hibakusha",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Daisuke_Suzuki_(actor)",
+            "http://dbpedia.org/resource/MILCK",
+            "http://dbpedia.org/resource/William_Frederick_Knight",
+            "http://dbpedia.org/resource/Jane_Lui",
+            "http://dbpedia.org/resource/Karin_Anna_Cheung"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Mikey_(film)",
+        "título": "Mikey",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Brian_Bonsall",
+            "http://dbpedia.org/resource/Josie_Bissett",
+            "http://dbpedia.org/resource/Lyman_Ward_(actor)",
+            "http://dbpedia.org/resource/Whit_Hertford",
+            "http://dbpedia.org/resource/John_Diehl_(actor)"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Barfi!",
+        "título": "Barfi!",
+        "realizador": "http://dbpedia.org/resource/Anurag_Basu",
+        "descrição": "بارفي! (بالهندية: बर्फी!) و(بالإنجليزية: !Barfi)‏ وهو فيلم كوميدي دراما هندي تم إنتاجه عام 2012، من إخراج أنوراغ باسو وبطولة رانبير كابور، بريانكا تشوبرا وإليانا دي كروز. نال الفيلم 35 جائزة و21 ترشيح، ويعتبر الفيلم حسب النقاد أنه من أفضل الأفلام الهندية التي مرّت عبر التاريخ. وتم وضعه على موقع قاعدة بيانات الأفلام على الإنترنت من ضمن «قائمة أفضل 250 فيلم هندي على مر التاريخ». كلّف الفيلم ما يقارب 30 كرور روبية هندية (5٫0 مليون دولار أمريكي)، وتم افتتاح الفيلم في جميع أنحاء العالم تاريخ 14 سبتمبر 2012. حقّق الفيلم نجاحا كبيرا في شباك التذاكر، ليصبح واحد من أعلى المعدلات على الإطلاق لأفلام بوليوود عام 2012 في الهند والعالم. وهو من أعلى عشرة أفلام هندية حسب الإيرادات لعام 2012. تم اختيار الفيلم في الهند كفيلم رسمي للترشيح لجائزة «أفضل فيلم أجنبي في حفل توزيع جوائز الأوسكار الخامس والثمانون». فاز بارفي بالعديد من الجوائز والترشيحات في مختلف حفلات توزيع الجوائز في جميع أنحاء الهند. وفي حفل جوائز فيلم فير الثامن والخمسون حصل الفيلم على ثلاثة عشر ترشيحا من بينها جائزة أفضل ممثلة لبريانكا تشوبرا وفاز بسبعة جوائز أخرى (وكان حينها أكثر من أي فيلم آخر) وفاز بأفضل فيلم وأفضل ممثل عن رانبير كابور وأفضل منتج موسيقي عن المنتج بريتام.",
+        "país": "http://dbpedia.org/resource/India",
+        "elenco": [
+            "http://dbpedia.org/resource/Priyanka_Chopra",
+            "http://dbpedia.org/resource/Ileana_D'Cruz",
+            "http://dbpedia.org/resource/Ranbir_Kapoor"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Sakalakala_Vallavan_(2015_film)",
+        "título": "Sakalakala Vallavan",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Prabhu_(actor)",
+            "http://dbpedia.org/resource/Vivek_(actor)",
+            "http://dbpedia.org/resource/Anjali_(film_actress)",
+            "http://dbpedia.org/resource/Trisha_(actress)",
+            "http://dbpedia.org/resource/Jayam_Ravi"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Bro's_Before_Ho's",
+        "título": "Bro's Before Ho's",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Tim_Haars",
+            "http://dbpedia.org/resource/Sylvia_Hoeks"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Poison_Dust",
+        "título": "Poison Dust",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Ramsey_Clark",
+            "http://dbpedia.org/resource/Juan_Gonzalez_(journalist)"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/The_Thief_Who_Came_to_Dinner",
+        "título": "The Thief Who Came to Dinner",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Ryan_O'Neal",
+            "http://dbpedia.org/resource/Warren_Oates",
+            "http://dbpedia.org/resource/Jacqueline_Bisset"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/The_Salt_of_Life",
+        "título": "The Salt of Life",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Valeria_De_Franciscis",
+            "http://dbpedia.org/resource/Gianni_Di_Gregorio",
+            "http://dbpedia.org/resource/Teresa_Di_Gregorio"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/El_tejedor_de_milagros",
+        "título": "El tejedor de milagros",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Pedro_Armendáriz"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/The_Mouse_from_H.U.N.G.E.R.",
+        "título": "The Mouse from H.U.N.G.E.R.",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Mel_Blanc",
+            "http://dbpedia.org/resource/June_Foray"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Circus_Beely",
+        "título": "Circus Beely",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Harry_Piel"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/King_Kong_Lives",
+        "título": "King Kong Lives",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Brian_Kerwin",
+            "http://dbpedia.org/resource/Peter_Michael_Goetz",
+            "http://dbpedia.org/resource/Linda_Hamilton",
+            "http://dbpedia.org/resource/John_Ashton_(actor)"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Home_Invasion_(film)",
+        "título": "Home Invasion",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Scott_Adkins",
+            "http://dbpedia.org/resource/Jason_Patric",
+            "http://dbpedia.org/resource/Kyra_Zagorsky",
+            "http://dbpedia.org/resource/Michael_Rogers_(actor)",
+            "http://dbpedia.org/resource/Natasha_Henstridge"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/The_Premonition_(1976_film)",
+        "título": "The Premonition",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Richard_Lynch",
+            "http://dbpedia.org/resource/Danielle_Brisebois",
+            "http://dbpedia.org/resource/Sharon_Farrell"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/When_Angels_Sleep",
+        "título": "When Angels Sleep",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Julián_Villagrán",
+            "http://dbpedia.org/resource/Ester_Expósito",
+            "http://dbpedia.org/resource/Marian_Álvarez"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Flashback_(2020_film)",
+        "título": "Flashback",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Emory_Cohen",
+            "http://dbpedia.org/resource/Maika_Monroe",
+            "http://dbpedia.org/resource/Dylan_O'Brien",
+            "http://dbpedia.org/resource/Hannah_Gross",
+            "http://dbpedia.org/resource/Keir_Gilchrist"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Zack_and_Miri_Make_a_Porno",
+        "título": "Zack and Miri Make a Porno",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Craig_Robinson_(actor)",
+            "http://dbpedia.org/resource/Elizabeth_Banks",
+            "http://dbpedia.org/resource/Traci_Lords",
+            "http://dbpedia.org/resource/Katie_Morgan",
+            "http://dbpedia.org/resource/Jason_Mewes"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/The_Firm_Man",
+        "título": "The Firm Man",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Peter_Cummins"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Star_Trek:_Insurrection",
+        "título": "Star Trek: Insurrection",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Brent_Spiner",
+            "http://dbpedia.org/resource/Jonathan_Frakes",
+            "http://dbpedia.org/resource/Patrick_Stewart",
+            "http://dbpedia.org/resource/Gates_McFadden",
+            "http://dbpedia.org/resource/Anthony_Zerbe"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Life_of_a_Woman",
+        "título": "Life of a Woman",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Nobuko_Otowa"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/P'tit_Quinquin_(film)",
+        "título": "P'tit Quinquin",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Alane_Delhaye",
+            "http://dbpedia.org/resource/Bernard_Pruvost",
+            "http://dbpedia.org/resource/Lucy_Caron"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Invasion,_U.S.A._(1952_film)",
+        "título": "Invasion, U.S.A.",
+        "realizador": "http://dbpedia.org/resource/Alfred_E._Green",
+        "descrição": "Invasion gegen USA ist ein US-amerikanischer Science-Fiction-Film/Kriegsfilm aus dem Jahr 1952.Der während des Koreakrieges gedrehte Film kam erst am 25. September 1959 in die deutschen Kinos. Ein mysteriöser Mr. Ohman führt einer Gruppe US-Amerikanern vor Augen, was passieren kann, wenn man nicht allzeit gerüstet ist.",
+        "país": "http://dbpedia.org/resource/United_States",
+        "elenco": [
+            "http://dbpedia.org/resource/Peggie_Castle",
+            "http://dbpedia.org/resource/Gerald_Mohr",
+            "http://dbpedia.org/resource/Dan_O'Herlihy"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Step_by_Step_(1946_film)",
+        "título": "Step by Step",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Harry_Harvey,_Sr.",
+            "http://dbpedia.org/resource/Myrna_Dell",
+            "http://dbpedia.org/resource/Anne_Jeffreys",
+            "http://dbpedia.org/resource/Lowell_Gilmore",
+            "http://dbpedia.org/resource/Addison_Richards"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/The_Lovers_(1946_film)",
+        "título": "The Lovers",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Gino_Bechi"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/La_Casa_de_Madame_Lulù",
+        "título": "La Casa de Madame Lulù",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Juan_Carlos_Altavista",
+            "http://dbpedia.org/resource/Libertad_Leblanc",
+            "http://dbpedia.org/resource/Alberto_Anchart"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Teenage_Paparazzo",
+        "título": "Teenage Paparazzo",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Matt_Damon",
+            "http://dbpedia.org/resource/Lindsay_Lohan",
+            "http://dbpedia.org/resource/Whoopi_Goldberg",
+            "http://dbpedia.org/resource/Adrian_Grenier",
+            "http://dbpedia.org/resource/Alec_Baldwin"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Thunder_River_Feud",
+        "título": "Thunder River Feud",
+        "realizador": null,
+        "descrição": null,
+        "país": null,
+        "elenco": [
+            "http://dbpedia.org/resource/Max_Terhune",
+            "http://dbpedia.org/resource/Jan_Wiley",
+            "http://dbpedia.org/resource/John_'Dusty'_King",
+            "http://dbpedia.org/resource/Ray_%22Crash%22_Corrigan"
+        ]
+    },
+    {
+        "id": "http://dbpedia.org/resource/Eidee_Kadaida",
+        "título": "Eidee Kadaida",
+        "realizador": "http://dbpedia.org/resource/Oinam_Gautam_Singh",
+        "descrição": "Eidee Kadaida (English: Where Am I) is a 2014 Manipuri film directed by O. Gautam and produced by Bigyani Hidangmayum, under the banner of Nilahari Films. The film features Gokul Athokpam, Abenao Elangbam and Leishangthem Tonthoi in the lead roles. The movie was premiered at Manipur Film Development Corporation (MFDC), Palace Compound on 31 January 2014 and Bhagyachandra Open Air Theatre (BOAT), Imphal on 19 April 2014.",
+        "país": "http://dbpedia.org/resource/India",
+        "elenco": [
+            "http://dbpedia.org/resource/Gokul_Athokpam",
+            "http://dbpedia.org/resource/Leishangthem_Tonthoingambi_Devi",
+            "http://dbpedia.org/resource/Abenao_Elangbam"
+        ]
+    }
+]
