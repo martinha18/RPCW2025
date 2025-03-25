@@ -1,6 +1,6 @@
 # TPC3:
 
-## 2025-02-18
+## 2025-02-25
 
 ## Autor
 
@@ -13,3 +13,7 @@ Quiz:
     - 4 opções (escolha múltipla)
     - Verdadeiro ou Falso
     - Correspondências (rei - dinastia)
+
+### Correr:
+
+python3 app_historia.py 
