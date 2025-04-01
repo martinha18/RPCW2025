@@ -1,0 +1,327 @@
+@prefix : <http://www.semanticweb.org/marta/ontologies/2025/historia/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/marta/ontologies/2025/historia/> .
+
+<http://www.semanticweb.org/marta/ontologies/2025/historia> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#ajuda
+:ajuda rdf:type owl:ObjectProperty ;
+       rdfs:domain :Pessoa ;
+       rdfs:range :Pessoa .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#contrata
+:contrata rdf:type owl:ObjectProperty ;
+          rdfs:domain :Pessoa ;
+          rdfs:range :Pessoa .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#cria
+:cria rdf:type owl:ObjectProperty ;
+      rdfs:domain :Pessoa ;
+      rdfs:range :Animal .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#faz
+:faz rdf:type owl:ObjectProperty ;
+     rdfs:domain :Pessoa ;
+     rdfs:range :Geleia .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#localizadaEm
+:localizadaEm rdf:type owl:ObjectProperty ;
+              rdfs:domain :Fazenda ;
+              rdfs:range :Localidade .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#pertenceA
+:pertenceA rdf:type owl:ObjectProperty ;
+           owl:inverseOf :temFazenda .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#temFazenda
+:temFazenda rdf:type owl:ObjectProperty ;
+            rdfs:domain :Pessoa ;
+            rdfs:range :Fazenda .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#trocaCom
+:trocaCom rdf:type owl:ObjectProperty ,
+                   owl:SymmetricProperty ;
+          rdfs:domain :Pessoa ;
+          rdfs:range :Pessoa .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#vendidoEm
+:vendidoEm rdf:type owl:ObjectProperty ;
+           rdfs:domain :Produto ;
+           rdfs:range :Feira .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#éCasado
+:éCasado rdf:type owl:ObjectProperty ;
+         rdfs:subPropertyOf owl:topObjectProperty ;
+         rdf:type owl:SymmetricProperty ;
+         rdfs:domain :Pessoa ;
+         rdfs:range :Pessoa .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/cultiva
+:cultiva rdf:type owl:ObjectProperty ;
+         rdfs:domain :Pessoa .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/éFilho
+:éFilho rdf:type owl:ObjectProperty ;
+        owl:inverseOf :éProgenitor ;
+        rdfs:domain :Pessoa .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/éProgenitor
+:éProgenitor rdf:type owl:ObjectProperty ;
+             rdfs:domain :Pessoa .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#temTamanho
+:temTamanho rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Fazenda ;
+            rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/temNome
+:temNome rdf:type owl:DatatypeProperty ;
+         rdfs:domain [ rdf:type owl:Class ;
+                       owl:unionOf ( :Fruta
+                                     :Pessoa
+                                   )
+                     ] ;
+         rdfs:range xsd:string .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#Fazenda
+:Fazenda rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#Feira
+:Feira rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#Geleia
+:Geleia rdf:type owl:Class ;
+        rdfs:subClassOf :Produto .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#Produto
+:Produto rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#TrabalhadorTemp
+:TrabalhadorTemp rdf:type owl:Class ;
+                 rdfs:subClassOf :Pessoa .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#Vegetal
+:Vegetal rdf:type owl:Class ;
+         rdfs:subClassOf :Produto .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/Agricultor
+:Agricultor rdf:type owl:Class ;
+            owl:equivalentClass [ rdf:type owl:Restriction ;
+                                  owl:onProperty :vendidoEm ;
+                                  owl:someValuesFrom :Feira
+                                ] ,
+                                [ rdf:type owl:Restriction ;
+                                  owl:onProperty :cultiva ;
+                                  owl:someValuesFrom [ rdf:type owl:Class ;
+                                                       owl:unionOf ( :Vegetal
+                                                                     :Fruta
+                                                                   )
+                                                     ]
+                                ] ;
+            rdfs:subClassOf :Pessoa .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/Animal
+:Animal rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/Fruta
+:Fruta rdf:type owl:Class ;
+       rdfs:subClassOf :Produto .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/Localidade
+:Localidade rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/Pessoa
+:Pessoa rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/Vila
+:Vila rdf:type owl:Class ;
+      rdfs:subClassOf :Localidade .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#Carlos
+:Carlos rdf:type owl:NamedIndividual ,
+                 :Pessoa ;
+        :temFazenda :fazenda2 ;
+        :trocaCom :João ;
+        :cultiva :alface ,
+                 :cenoura ,
+                 :tomate .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#São_José
+:São_José rdf:type owl:NamedIndividual ,
+                   :Vila .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#alface
+:alface rdf:type owl:NamedIndividual ,
+                 :Vegetal ;
+        :vendidoEm :feira_São_José .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#cenoura
+:cenoura rdf:type owl:NamedIndividual ,
+                  :Vegetal ;
+         :vendidoEm :feira_São_José .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#fazenda1
+:fazenda1 rdf:type owl:NamedIndividual ,
+                   :Fazenda ;
+          :localizadaEm :São_José ;
+          :temTamanho "pequeno" .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#fazenda2
+:fazenda2 rdf:type owl:NamedIndividual ,
+                   :Fazenda ;
+          :temTamanho "maior" .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#feira_São_José
+:feira_São_José rdf:type owl:NamedIndividual ,
+                         :Feira .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#galinha
+:galinha rdf:type owl:NamedIndividual ,
+                  :Animal .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#geleia
+:geleia rdf:type owl:NamedIndividual ,
+                 :Geleia ;
+        :vendidoEm :feira_São_José .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#porco
+:porco rdf:type owl:NamedIndividual ,
+                :Animal .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#tomate
+:tomate rdf:type owl:NamedIndividual ,
+                 :Vegetal ;
+        :vendidoEm :feira_São_José .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#trabalhador1
+:trabalhador1 rdf:type owl:NamedIndividual ,
+                       :TrabalhadorTemp ;
+              :ajuda :João .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia#vaca
+:vaca rdf:type owl:NamedIndividual ,
+               :Animal .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/Ana
+:Ana rdf:type owl:NamedIndividual ,
+              :Pessoa ;
+     :ajuda :Maria ;
+     :temNome "Ana" .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/João
+:João rdf:type owl:NamedIndividual ,
+               :Pessoa ;
+      :contrata :trabalhador1 ;
+      :cria :galinha ,
+            :porco ,
+            :vaca ;
+      :temFazenda :fazenda2 ;
+      :éCasado :Maria ;
+      :cultiva :banana ,
+               :laranja ,
+               :maçã ;
+      :éProgenitor :Ana ;
+      :temNome "João" .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/Maria
+:Maria rdf:type owl:NamedIndividual ,
+                :Pessoa ;
+       :ajuda :João ;
+       :faz :geleia ;
+       :éProgenitor :Ana ;
+       :temNome "Maria" .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/Pedro
+:Pedro rdf:type owl:NamedIndividual ,
+                :Pessoa ;
+       :ajuda :João ;
+       :éFilho :João ,
+               :Maria ;
+       :temNome "Pedro" .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/banana
+:banana rdf:type owl:NamedIndividual ,
+                 :Fruta ;
+        :vendidoEm :feira_São_José ;
+        :temNome "banana" .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/laranja
+:laranja rdf:type owl:NamedIndividual ,
+                  :Fruta ;
+         :vendidoEm :feira_São_José ;
+         :temNome "laranja" .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/historia/maçã
+:maçã rdf:type owl:NamedIndividual ,
+               :Fruta ;
+      :vendidoEm :feira_São_José ;
+      :temNome "maçã" .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi

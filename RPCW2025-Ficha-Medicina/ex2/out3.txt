@@ -1,0 +1,318 @@
+
+:DrugReaction a :Disease ;
+    :hasTreatment :consultnearesthospital, :stoptakingdrug, :stopirritation, :followup .
+
+:Malaria a :Disease ;
+    :hasTreatment :avoidnonvegfood, :avoidoilyfood, :Consultnearesthospital, :keepmosquitosout .
+
+:Allergy a :Disease ;
+    :hasTreatment :useicetocompressitching, :coverareawithbandage, :applycalamine .
+
+:Hypothyroidism a :Disease ;
+    :hasTreatment :reducestress, :eathealthy, :getpropersleep, :exercise .
+
+:Psoriasis a :Disease ;
+    :hasTreatment :saltbaths, :stopbleedingusingpressure, :consultdoctor, :washhandswithwarmsoapywater .
+
+:GERD a :Disease ;
+    :hasTreatment :avoidfattyspicyfood, :avoidlyingdownaftereating, :exercise, :maintainhealthyweight .
+
+:Chroniccholestasis a :Disease ;
+    :hasTreatment :eathealthy, :consultdoctor, :coldbaths, :antiitchmedicine .
+
+:hepatitisA a :Disease ;
+    :hasTreatment :avoidfattyspicyfood, :medication, :washhandsthrough, :Consultnearesthospital .
+
+:Osteoarthristis a :Disease ;
+    :hasTreatment :consultnearesthospital, :followup, :acetaminophen, :saltbaths .
+
+:vertigoParoymsalPositionalVertigo a :Disease ;
+    :hasTreatment :avoidabruptheadmovment, :relax, :avoidsuddenchangeinbody, :liedown .
+
+:Hypoglycemia a :Disease ;
+    :hasTreatment :checkinpulse, :consultdoctor, :drinksugarydrinks, :liedownonside .
+
+:Acne a :Disease ;
+    :hasTreatment :drinkplentyofwater, :avoidfattyspicyfood, :avoidtoomanyproducts, :bathtwice .
+
+:Diabetes a :Disease ;
+    :hasTreatment :followup, :consultdoctor, :exercise, :havebalanceddiet .
+
+:Impetigo a :Disease ;
+    :hasTreatment :useantibiotics, :consultdoctor, :removescabswithwetcompressedcloth, :soakaffectedareainwarmwater .
+
+:Hypertension a :Disease ;
+    :hasTreatment :saltbaths, :getpropersleep, :reducestress, :meditation .
+
+:Pepticulcerdiseae a :Disease ;
+    :hasTreatment :consumeprobioticfood, :avoidfattyspicyfood, :eliminatemilk, :limitalcohol .
+
+:Dimorphichemmorhoidspiles a :Disease ;
+    :hasTreatment :warmbathwithepsomsalt, :avoidfattyspicyfood, :consumealoverajuice, :consumewitchhazel .
+
+:CommonCold a :Disease ;
+    :hasTreatment :takevapour, :drinkvitamincrichdrinks, :keepfeverincheck, :avoidcoldfood .
+
+:Chickenpox a :Disease ;
+    :hasTreatment :useneeminbathing, :avoidpublicplaces, :consumeneemleaves, :takevaccine .
+
+:Cervicalspondylosis a :Disease ;
+    :hasTreatment :takeotcpainreliver, :useheatingpadorcoldpack, :exercise, :consultdoctor .
+
+:Hyperthyroidism a :Disease ;
+    :hasTreatment :eathealthy, :uselemonbalm, :massage, :takeradioactiveiodinetreatment .
+
+:Urinarytractinfection a :Disease ;
+    :hasTreatment :increasevitamincintake, :drinkplentyofwater, :drinkcranberryjuice, :takeprobiotics .
+
+:Varicoseveins a :Disease ;
+    :hasTreatment :useveincompression, :useoinments, :dontstandstillforlong, :liedownflatandraisetheleghigh .
+
+:AIDS a :Disease ;
+    :hasTreatment :followup, :wearppeifpossible, :consultdoctor, :avoidopencuts .
+
+:Paralysisbrainhemorrhage a :Disease ;
+    :hasTreatment :eathealthy, :consultdoctor, :massage, :exercise .
+
+:Typhoid a :Disease ;
+    :hasTreatment :medication, :consultdoctor, :eathighcalorievegitables, :antiboitictherapy .
+
+:HepatitisB a :Disease ;
+    :hasTreatment :eathealthy, :medication, :consultnearesthospital, :vaccination .
+
+:Fungalinfection a :Disease ;
+    :hasTreatment :keepinfectedareadry, :usedetolorneeminbathingwater, :bathtwice, :usecleancloths .
+
+:HepatitisC a :Disease ;
+    :hasTreatment :eathealthy, :medication, :vaccination, :Consultnearesthospital .
+
+:Migraine a :Disease ;
+    :hasTreatment :reducestress, :consultdoctor, :usepoloroidglassesinsun, :meditation .
+
+:BronchialAsthma a :Disease ;
+    :hasTreatment :switchtoloosecloothing, :getawayfromtrigger, :takedeepbreaths, :seekhelp .
+
+:Alcoholichepatitis a :Disease ;
+    :hasTreatment :medication, :stopalcoholconsumption, :followup, :consultdoctor .
+
+:Jaundice a :Disease ;
+    :hasTreatment :consumemilkthistle, :drinkplentyofwater, :medication, :eatfruitsandhighfiberousfood .
+
+:HepatitisE a :Disease ;
+    :hasTreatment :consultdoctor, :medication, :stopalcoholconsumption, :rest .
+
+:Dengue a :Disease ;
+    :hasTreatment :drinkpapayaleafjuice, :avoidfattyspicyfood, :keephydrated, :keepmosquitosaway .
+
+:HepatitisD a :Disease ;
+    :hasTreatment :eathealthy, :medication, :consultdoctor, :followup .
+
+:Heartattack a :Disease ;
+    :hasTreatment :keepcalm, :cheworswallowasprin, :callambulance .
+
+:Pneumonia a :Disease ;
+    :hasTreatment :medication, :consultdoctor, :followup, :rest .
+
+:Arthritis a :Disease ;
+    :hasTreatment :usehotandcoldtherapy, :massage, :exercise, :tryacupuncture .
+
+:Gastroenteritis a :Disease ;
+    :hasTreatment :trytakingsmallsipsofwater, :rest, :stopeatingsolidfoodforwhile, :easebackintoeating .
+
+:Tuberculosis a :Disease ;
+    :hasTreatment :medication, :consultdoctor, :rest, :covermouth .
+
+    :drinkvitamincrichdrinks a :Treatment .
+    
+    :takevaccine a :Treatment .
+    
+    :stopirritation a :Treatment .
+    
+    :avoidsuddenchangeinbody a :Treatment .
+    
+    :takevapour a :Treatment .
+    
+    :takeprobiotics a :Treatment .
+    
+    :avoidtoomanyproducts a :Treatment .
+    
+    :washhandswithwarmsoapywater a :Treatment .
+    
+    :havebalanceddiet a :Treatment .
+    
+    :liedownonside a :Treatment .
+    
+    :avoidcoldfood a :Treatment .
+    
+    :avoidlyingdownaftereating a :Treatment .
+    
+    :keepfeverincheck a :Treatment .
+    
+    :takedeepbreaths a :Treatment .
+    
+    :liedown a :Treatment .
+    
+    :keepmosquitosout a :Treatment .
+    
+    :removescabswithwetcompressedcloth a :Treatment .
+    
+    :coldbaths a :Treatment .
+    
+    :keepmosquitosaway a :Treatment .
+    
+    :consumeneemleaves a :Treatment .
+    
+    :avoidoilyfood a :Treatment .
+    
+    :consumealoverajuice a :Treatment .
+    
+    :applycalamine a :Treatment .
+    
+    :drinkcranberryjuice a :Treatment .
+    
+    :meditation a :Treatment .
+    
+    :vaccination a :Treatment .
+    
+    :stopalcoholconsumption a :Treatment .
+    
+    :keepcalm a :Treatment .
+    
+    :useneeminbathing a :Treatment .
+    
+    :consumemilkthistle a :Treatment .
+    
+    :trytakingsmallsipsofwater a :Treatment .
+    
+    :avoidopencuts a :Treatment .
+    
+    :acetaminophen a :Treatment .
+    
+    :usepoloroidglassesinsun a :Treatment .
+    
+    :usehotandcoldtherapy a :Treatment .
+    
+    :massage a :Treatment .
+    
+    :bathtwice a :Treatment .
+    
+    :relax a :Treatment .
+    
+    :useoinments a :Treatment .
+    
+    :tryacupuncture a :Treatment .
+    
+    :reducestress a :Treatment .
+    
+    :dontstandstillforlong a :Treatment .
+    
+    :antiboitictherapy a :Treatment .
+    
+    :takeotcpainreliver a :Treatment .
+    
+    :usecleancloths a :Treatment .
+    
+    :useheatingpadorcoldpack a :Treatment .
+    
+    :checkinpulse a :Treatment .
+    
+    :coverareawithbandage a :Treatment .
+    
+    :limitalcohol a :Treatment .
+    
+    :eathealthy a :Treatment .
+    
+    :callambulance a :Treatment .
+    
+    :keepinfectedareadry a :Treatment .
+    
+    :washhandsthrough a :Treatment .
+    
+    :switchtoloosecloothing a :Treatment .
+    
+    :avoidnonvegfood a :Treatment .
+    
+    :avoidfattyspicyfood a :Treatment .
+    
+    :consultdoctor a :Treatment .
+    
+    :uselemonbalm a :Treatment .
+    
+    :drinksugarydrinks a :Treatment .
+    
+    :eathighcalorievegitables a :Treatment .
+    
+    :getawayfromtrigger a :Treatment .
+    
+    :rest a :Treatment .
+    
+    :useicetocompressitching a :Treatment .
+    
+    :antiitchmedicine a :Treatment .
+    
+    :consumeprobioticfood a :Treatment .
+    
+    :avoidabruptheadmovment a :Treatment .
+    
+    :drinkplentyofwater a :Treatment .
+    
+    :exercise a :Treatment .
+    
+    :drinkpapayaleafjuice a :Treatment .
+    
+    :useantibiotics a :Treatment .
+    
+    :usedetolorneeminbathingwater a :Treatment .
+    
+    :Consultnearesthospital a :Treatment .
+    
+    :eatfruitsandhighfiberousfood a :Treatment .
+    
+    :saltbaths a :Treatment .
+    
+    :medication a :Treatment .
+    
+    :avoidpublicplaces a :Treatment .
+    
+    :seekhelp a :Treatment .
+    
+    :covermouth a :Treatment .
+    
+    :eliminatemilk a :Treatment .
+    
+    :consumewitchhazel a :Treatment .
+    
+    :increasevitamincintake a :Treatment .
+    
+    :maintainhealthyweight a :Treatment .
+    
+    :consultnearesthospital a :Treatment .
+    
+    :wearppeifpossible a :Treatment .
+    
+    :warmbathwithepsomsalt a :Treatment .
+    
+    :cheworswallowasprin a :Treatment .
+    
+    :stopeatingsolidfoodforwhile a :Treatment .
+    
+    :keephydrated a :Treatment .
+    
+    :followup a :Treatment .
+    
+    :easebackintoeating a :Treatment .
+    
+    :stoptakingdrug a :Treatment .
+    
+    :liedownflatandraisetheleghigh a :Treatment .
+    
+    :useveincompression a :Treatment .
+    
+    :getpropersleep a :Treatment .
+    
+    :stopbleedingusingpressure a :Treatment .
+    
+    :takeradioactiveiodinetreatment a :Treatment .
+    
+    :soakaffectedareainwarmwater a :Treatment .
+    
