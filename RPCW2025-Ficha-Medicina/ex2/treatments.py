@@ -22,7 +22,7 @@ def csv_para_dicionario(nome_arquivo):
     return dicionario, tratamentos
 
 # Exemplo de uso
-nome_arquivo = 'Disease_Treatment.csv'  # Substitua pelo nome do seu arquivo
+nome_arquivo = 'Disease_Treatment.csv'
 dict_doencas, tratamentos = csv_para_dicionario(nome_arquivo)
 
 trat = set(tratamentos) 
@@ -30,8 +30,7 @@ trat = set(tratamentos)
 instances = ""
 for doenca, tratamentos in dict_doencas.items():
     instances += f"""
-:{id(doenca)} a :Disease ;
-    :hasTreatment {", ".join(f":{id(v)}" for v in set(tratamentos) if v)} .
+:{id(doenca)} :hasTreatment {", ".join(f":{id(v)}" for v in set(tratamentos) if v)} .
 """
     
 for t in trat:
