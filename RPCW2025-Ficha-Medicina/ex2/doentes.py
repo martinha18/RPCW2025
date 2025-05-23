@@ -25,6 +25,7 @@ identificador = 3
 for doente, sintomas in dict_doentes.items():
     instances += f"""
 :{identificador} a :Patient ;
+    :name "{doente}" ;
     :exhibitsSymptom {", ".join(f":{id(v)}" for v in set(sintomas) if v)} .
 """
     identificador += 1
