@@ -1,0 +1,47 @@
+.game {
+    padding: 1rem;
+}
+
+.game-remaining {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: center;
+}
+
+.game-remaining > :first-child {
+    white-space: nowrap;
+}
+
+.game-timer-container {
+    width: 100%;
+    height: 20px;
+    background-color: #eee;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+}
+
+.game-timer-bar {
+    width: 100%;
+    height: 100%;
+    background-color: #4d9e2f;
+    animation: slideAnimation 30s linear forwards;
+}
+
+@keyframes slideAnimation {
+    0% {
+        width: 100%;
+        background-color: #4d9e2f;
+    }
+    40% {
+        background-color: #fbc02d;
+    }
+    90% {
+        background-color: #f44336;
+    }
+    100% {
+        width: 0;
+        background-color: #f44336;
+    }
+}

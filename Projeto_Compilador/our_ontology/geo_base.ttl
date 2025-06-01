@@ -1,0 +1,188 @@
+@prefix : <http://www.semanticweb.org/marta/ontologies/2025/geografia#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/marta/ontologies/2025/geografia#> .
+
+<http://www.semanticweb.org/marta/ontologies/2025/geografia> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#atravessadoPor
+:atravessadoPor rdf:type owl:ObjectProperty ;
+                owl:inverseOf :passaPor ;
+                rdfs:domain :País ;
+                rdfs:range :Rio .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#desaguaEm
+:desaguaEm rdf:type owl:ObjectProperty ;
+           owl:inverseOf :recebeRio ;
+           rdfs:domain :Rio ;
+           rdfs:range :CorpoDeÁgua .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#fazFronteiraCom
+:fazFronteiraCom rdf:type owl:ObjectProperty ;
+                 rdfs:domain [ rdf:type owl:Class ;
+                               owl:unionOf ( :CorpoDeÁguaSalgada
+                                             :País
+                                           )
+                             ] ;
+                 rdfs:range [ rdf:type owl:Class ;
+                              owl:unionOf ( :CorpoDeÁguaSalgada
+                                            :País
+                                          )
+                            ] .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#localizadoEm
+:localizadoEm rdf:type owl:ObjectProperty ;
+              rdfs:domain :DivisãoTerritorial ;
+              rdfs:range :DivisãoTerritorial .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#passaPor
+:passaPor rdf:type owl:ObjectProperty ;
+          rdfs:domain :Rio ;
+          rdfs:range :País .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#recebeRio
+:recebeRio rdf:type owl:ObjectProperty ;
+           rdfs:domain :CorpoDeÁgua ;
+           rdfs:range :Rio .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#temCidade
+:temCidade rdf:type owl:ObjectProperty ;
+           owl:inverseOf :éParteDe ;
+           rdfs:domain :País ;
+           rdfs:range :Cidade .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#temComoCapital
+:temComoCapital rdf:type owl:ObjectProperty ;
+                rdfs:subPropertyOf :temCidade ;
+                owl:inverseOf :éCapitalDe ;
+                rdfs:domain :País ;
+                rdfs:range :Capital .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#temMar
+:temMar rdf:type owl:ObjectProperty ;
+        rdfs:domain :Oceano ;
+        rdfs:range :Mar .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#temPaís
+:temPaís rdf:type owl:ObjectProperty ;
+         rdfs:domain :Continente ;
+         rdfs:range :País .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#éCapitalDe
+:éCapitalDe rdf:type owl:ObjectProperty ;
+            rdfs:domain :Capital ;
+            rdfs:range :País .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#éParteDe
+:éParteDe rdf:type owl:ObjectProperty ;
+          rdfs:domain :Mar ;
+          rdfs:range :Oceano .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#comprimento
+:comprimento rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Rio ;
+             rdfs:range xsd:float .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#nome
+:nome rdf:type owl:DatatypeProperty ;
+      rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#população
+:população rdf:type owl:DatatypeProperty ;
+           rdfs:domain :DivisãoTerritorial ;
+           rdfs:range xsd:int .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#área
+:área rdf:type owl:DatatypeProperty ;
+      rdfs:domain [ rdf:type owl:Class ;
+                    owl:unionOf ( :CorpoDeÁguaSalgada
+                                  :DivisãoTerritorial
+                                )
+                  ] ;
+      rdfs:range xsd:float .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#Capital
+:Capital rdf:type owl:Class ;
+         rdfs:subClassOf :Cidade .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#Cidade
+:Cidade rdf:type owl:Class ;
+        rdfs:subClassOf :DivisãoTerritorial .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#Continente
+:Continente rdf:type owl:Class ;
+            rdfs:subClassOf :DivisãoTerritorial .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#CorpoDeÁgua
+:CorpoDeÁgua rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#CorpoDeÁguaDoce
+:CorpoDeÁguaDoce rdf:type owl:Class ;
+                 rdfs:subClassOf :CorpoDeÁgua .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#CorpoDeÁguaSalgada
+:CorpoDeÁguaSalgada rdf:type owl:Class ;
+                    rdfs:subClassOf :CorpoDeÁgua .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#DivisãoTerritorial
+:DivisãoTerritorial rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#Mar
+:Mar rdf:type owl:Class ;
+     rdfs:subClassOf :CorpoDeÁguaSalgada .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#Oceano
+:Oceano rdf:type owl:Class ;
+        rdfs:subClassOf :CorpoDeÁguaSalgada .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#País
+:País rdf:type owl:Class ;
+      rdfs:subClassOf :DivisãoTerritorial .
+
+
+###  http://www.semanticweb.org/marta/ontologies/2025/geografia#Rio
+:Rio rdf:type owl:Class ;
+     rdfs:subClassOf :CorpoDeÁguaDoce .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi

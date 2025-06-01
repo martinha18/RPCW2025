@@ -1,0 +1,28 @@
+services:
+  ollama:
+    image: ollama/ollama
+    entrypoint: ["bash", "-c", "/bin/ollama serve &
+    sleep 10;
+    /bin/ollama pull gemma3:12b"]
+    restart: always
+    volumes:
+      - ./.ollama:/root/.ollama
+      - /etc/timezone:/etc/timezone:ro
+      - /etc/localtime:/etc/localtime:ro
+    ports:
+      - "11434:11434"
+    expose:
+      - "11434"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+  graphdb:
+    image: khaller/graphdb-free
+    ports:
+      - "7200:7200"
+    expose:
+      - "7200"

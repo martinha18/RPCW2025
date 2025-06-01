@@ -1,0 +1,26 @@
+.as-root {
+    display: grid;
+    grid-template-columns: min-content min-content min-content;
+    flex: 1;
+}
+
+.as-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex: 1;
+    user-select: none;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.as-column:first-child {
+    align-items: flex-end;
+}
+
+.as-column:last-child {
+    align-items: flex-start;
+}
+
+.as-lines {}
